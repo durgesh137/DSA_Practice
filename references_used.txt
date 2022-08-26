@@ -1,0 +1,3 @@
+Related Java links
+====================
+1. https://www.geeksforgeeks.org/remove-element-arraylist-java/

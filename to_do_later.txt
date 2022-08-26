@@ -1,0 +1,10 @@
+Questions to be done later
+===========================
+Array:
+---------
+1. https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+
+String, dynamic programming concept
+-------------------------------------
+1. https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1
